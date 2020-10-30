@@ -41,7 +41,7 @@ header #generatedMessage {
           box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.25);
   padding: 20px 16px;
   border: 2px solid #37a330;
-  border-radius: 10px;
+  border-radius: 14px;
 }
 
 .pass-container #resultPassword:focus {
@@ -89,8 +89,9 @@ header #generatedMessage {
           box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   padding: 12px 16px;
   border: 2px solid #fff;
-  border-radius: 10px;
+  border-radius: 14px;
   width: 48%;
+  outline: 0;
 }
 
 .generate-btn:hover, .generate-btn:focus {
